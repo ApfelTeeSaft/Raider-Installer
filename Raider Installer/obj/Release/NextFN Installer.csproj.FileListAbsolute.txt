@@ -1,0 +1,8 @@
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\obj\Release\NextFN Installer.csproj.AssemblyReference.cache
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\obj\Release\NextFN Installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\obj\Release\NextFN Installer.csproj.CoreCompileInputs.cache
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\bin\Release\Raider Installer.exe.config
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\bin\Release\Raider Installer.exe
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\bin\Release\Raider Installer.pdb
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\obj\Release\Raider Installer.exe
+C:\Users\h07he\Desktop\Installer-main\Installer-main\NextFN Installer\obj\Release\Raider Installer.pdb
